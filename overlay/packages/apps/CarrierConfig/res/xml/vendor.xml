@@ -94,7 +94,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
     </carrier_config>
 
     <carrier_config mcc="222" mnc="01">
@@ -782,14 +781,12 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
     </carrier_config>
 
     <carrier_config mcc="454" mnc="04">
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
     </carrier_config>
 
     <carrier_config mcc="454" mnc="31">
@@ -802,7 +799,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
         <string-array name="apn_hide_rule_strings_array" num="2">
             <item value="type"/>
             <item value="supl,mms"/>
@@ -817,7 +813,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
         <string-array name="apn_hide_rule_strings_array" num="2">
             <item value="type"/>
             <item value="supl,mms"/>
@@ -932,7 +927,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="ascii_7_bit_support_for_long_message" value="true" />
         <boolean name="cdma_cw_cf_enabled_bool" value="true" />
         <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
@@ -1094,7 +1088,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="ascii_7_bit_support_for_long_message" value="true" />
         <boolean name="cdma_cw_cf_enabled_bool" value="true" />
         <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
@@ -1116,7 +1109,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.-->
         <boolean name="carrier_volte_available_bool" value="true" />
         <boolean name="carrier_vt_available_bool" value="true" />
         <boolean name="carrier_wfc_ims_available_bool" value="true" />
-        <boolean name="check_mobile_data_for_cf" value="true" />
         <boolean name="ascii_7_bit_support_for_long_message" value="true" />
         <boolean name="cdma_cw_cf_enabled_bool" value="true" />
         <boolean name="allow_emergency_numbers_in_call_log_bool" value="true"/>
